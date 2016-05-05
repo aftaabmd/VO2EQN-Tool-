@@ -27,3 +27,6 @@ eqn format:
     
     https://bitbucket.org/ycunxi/arithverification_by_funcextraction/overview
     
+    
+    Watch out for the copyright issues everything done here is academic level. Petboss tool is under the project of professor maceij ceiselski.
+    
