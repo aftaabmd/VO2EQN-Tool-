@@ -22,3 +22,8 @@ eqn format:
     
     
     The commands to use our tool are in the attached report file.
+    
+    The verilog code taken from here and also has other omportant stuff
+    
+    https://bitbucket.org/ycunxi/arithverification_by_funcextraction/overview
+    
